@@ -15,15 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 <h3>Frontend: </h3>
 
-<img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react">
-
-<img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=090909&logo=Next.js&logoColor=FFFFFF&label=">
-<img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=Redux">
 <img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-Scss-090909?style=for-the-badge&logo=sass">
-
 <img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-TailwindCSS-090909?style=for-the-badge&logo=TailwindCSS">
+
+<img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react">
+<img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-redux-090909?style=for-the-badge&logo=Redux">
+
+<img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript">
+<img align="left" style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript">
+
 
 <img  style="margin-right:15px; margin-top: 15px" src="https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap">
 
