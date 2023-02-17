@@ -1,4 +1,4 @@
-### Я вас категорически приветствую!
+### Приветствую
 
 <!--
 **1amL0st/1amL0st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
